@@ -2,3 +2,6 @@
 python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 python -m pip install -U scikit-learn
 
+#Trial run using cookiecutter
+#Python code available by default when new project is opened.
+Test sample:python-sklearn-regression-cookiecutter
